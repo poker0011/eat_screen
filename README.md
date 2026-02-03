@@ -16,4 +16,4 @@ This project focuses on building a clean and responsive User Interface for a foo
 3. Run the following command in the terminal to get dependencies:
    ```bash
    flutter pub get
-   ![App Screenshot](assets\screen.png)
+   ![App Screenshot](assets/screen.png)
